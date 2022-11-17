@@ -8,7 +8,7 @@
     <title>I'll appear in your browser tab.</title>
   </head>
   <body>
-    this is page 3
+    Hi, this is page 3
     <a href="html-page1" > page 1 </a>
     <a href="html-page2" >page 2</a>
   </body>
